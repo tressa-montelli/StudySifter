@@ -1,5 +1,7 @@
 # StudySifter
+**[Live Demo](https://studysifter-ng23jbnc4ixp587gq4ny2z.streamlit.app/)**
 
+> Try the deployed application by uploading a scientific research paper in PDF format.
 StudySifter is an AI-assisted scientific literature extraction prototype built with Python, Streamlit, Pydantic, Pandas, and the Google Gen AI SDK. It implements a structured LLM extraction pipeline that converts scientific research papers from PDF documents into standardized, reviewable study data.
 
 The project was designed around a common evidence-synthesis problem: extracting consistent study characteristics from heterogeneous scientific papers while preserving enough source information for a human reviewer to validate the model's output.
